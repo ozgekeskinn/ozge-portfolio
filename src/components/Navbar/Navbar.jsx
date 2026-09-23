@@ -12,6 +12,16 @@ export default function Navbar() {
     function handleScroll() {
       const activationPoint = 160;
 
+      // Sayfanın en altına geldiysek İletişim aktif olsun
+      const isAtBottom =
+        window.innerHeight + window.scrollY >=
+        document.documentElement.scrollHeight - 10;
+
+      if (isAtBottom) {
+        setActiveSection("contact");
+        return;
+      }
+
       let currentSection = "home";
 
       sections.forEach((sectionId) => {
@@ -86,7 +96,7 @@ export default function Navbar() {
           <a
             href="#contact"
             className={getLinkClass("contact")}
-            onClick={() => setActiveSection("projects")}
+            onClick={() => setActiveSection("contact")}
           >
             İletişim
           </a>

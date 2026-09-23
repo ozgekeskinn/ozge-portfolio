@@ -27,7 +27,7 @@ export default function Projects() {
       <div className="projects__container">
         <div className="projects__header">
           <div>
-            <h1 className="projects__eyebrow">Projelerim</h1>
+            <h2 className="projects__title">Projelerim</h2>
           </div>
         </div>
 
