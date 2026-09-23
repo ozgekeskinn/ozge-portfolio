@@ -22,7 +22,7 @@ const projects = [
       "LocalStorage",
     ],
     github: "https://github.com/ozgekeskinn/mochi-oak",
-    demo: null,
+    demo: "https://mochi-oak.vercel.app/",
   },
 
   {
@@ -41,7 +41,7 @@ const projects = [
       "LocalStorage",
     ],
     github: "https://github.com/ozgekeskinn/beauty-shop",
-    demo: null,
+    demo: "https://beauty-shop-taupe-ten.vercel.app/",
   },
 
   {
@@ -59,7 +59,7 @@ const projects = [
       "Font Awesome",
     ],
     github: "https://github.com/ozgekeskinn/christmas-market",
-    demo: null,
+    demo: "https://christmas-market-coral.vercel.app/",
   },
 
   {
@@ -83,7 +83,7 @@ const projects = [
       "LocalStorage",
     ],
     github: "https://github.com/ozgekeskinn/movie-list",
-    demo: null,
+    demo: "https://movie-list-teal-omega.vercel.app/",
   },
 
   {
@@ -103,7 +103,7 @@ const projects = [
       "Vite",
     ],
     github: "https://github.com/ozgekeskinn/vision-board",
-    demo: null,
+    demo: "https://vision-board-rouge.vercel.app/",
   },
 
   {
@@ -124,7 +124,7 @@ const projects = [
       "Vite",
     ],
     github: "https://github.com/ozgekeskinn/jobtrack",
-    demo: null,
+    demo: "https://jobtrack-theta.vercel.app/",
   },
 
   {
@@ -146,7 +146,7 @@ const projects = [
       "Vite",
     ],
     github: "https://github.com/ozgekeskinn/RoomCraft",
-    demo: null,
+    demo: "https://room-craft-two.vercel.app/",
   },
 ];
 

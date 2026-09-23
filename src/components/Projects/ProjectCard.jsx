@@ -38,7 +38,7 @@ export default function ProjectCard({ project }) {
               rel="noreferrer"
               className="project-card__button project-card__button--primary"
             >
-              Demo
+              İncele
               <FiExternalLink />
             </a>
           )}
