@@ -162,7 +162,6 @@ const projects = [
       "TypeScript ve OOP ile geliştirilen modüler filo yönetimi konsol uygulaması. Araç sağlık puanı, bakım ve arıza takibi, sürücü ehliyet uygunluğu, göreve çıkış kararları ve detaylı filo raporlaması içerir.",
     technologies: [
       "TypeScript",
-      "Node.js",
       "OOP",
       "Business Rules",
       "Dependency Injection",
@@ -177,13 +176,7 @@ const projects = [
     image: freelanceManagementImage,
     description:
       "TypeScript ile geliştirilen müşteri, proje, görev ve fatura yönetimi konsol uygulaması. Durum ve tamamlanma kontrolleri, tahsilat takibi, finansal raporlama ve 8 iş kuralı testiyle modüler bir yapı sunar.",
-    technologies: [
-      "TypeScript",
-      "Node.js",
-      "OOP",
-      "Type Safety",
-      "Business Rules",
-    ],
+    technologies: ["TypeScript", "OOP", "Type Safety", "Business Rules"],
     github: "https://github.com/ozgekeskinn/FreelanceManagementSystem",
   },
 ];
