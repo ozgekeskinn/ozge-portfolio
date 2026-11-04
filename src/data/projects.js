@@ -5,6 +5,8 @@ import movieListImage from "../assets/images/projects/movie-list.png";
 import visionDashboardImage from "../assets/images/projects/vision-ui-dashboard.png";
 import jobTrackImage from "../assets/images/projects/jobtrack.png";
 import roomCraftImage from "../assets/images/projects/roomcraft.png";
+import fleetGuardImage from "../assets/images/projects/fleetguard.svg";
+import freelanceManagementImage from "../assets/images/projects/freelance-management.svg";
 
 const projects = [
   {
@@ -147,6 +149,42 @@ const projects = [
     ],
     github: "https://github.com/ozgekeskinn/RoomCraft",
     demo: "https://room-craft-two.vercel.app/",
+  },
+
+  // TYPESCRIPT & OOP PROJELERİ
+
+  {
+    id: 8,
+    title: "FleetGuard",
+    category: "TypeScript · CLI",
+    image: fleetGuardImage,
+    description:
+      "TypeScript ve OOP ile geliştirilen modüler filo yönetimi konsol uygulaması. Araç sağlık puanı, bakım ve arıza takibi, sürücü ehliyet uygunluğu, göreve çıkış kararları ve detaylı filo raporlaması içerir.",
+    technologies: [
+      "TypeScript",
+      "Node.js",
+      "OOP",
+      "Business Rules",
+      "Dependency Injection",
+    ],
+    github: "https://github.com/ozgekeskinn/FleetGuard",
+  },
+
+  {
+    id: 9,
+    title: "Freelance Management System",
+    category: "TypeScript · CLI",
+    image: freelanceManagementImage,
+    description:
+      "TypeScript ile geliştirilen müşteri, proje, görev ve fatura yönetimi konsol uygulaması. Durum ve tamamlanma kontrolleri, tahsilat takibi, finansal raporlama ve 8 iş kuralı testiyle modüler bir yapı sunar.",
+    technologies: [
+      "TypeScript",
+      "Node.js",
+      "OOP",
+      "Type Safety",
+      "Business Rules",
+    ],
+    github: "https://github.com/ozgekeskinn/FreelanceManagementSystem",
   },
 ];
 

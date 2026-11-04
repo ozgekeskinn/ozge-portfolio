@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="FleetGuard — TypeScript konsol uygulaması için CLI temalı proje kapak görseli">
+    <defs>
+      <radialGradient id="glow"><stop offset="0" stop-color="#54d6eb" stop-opacity=".23"/><stop offset="1" stop-color="#54d6eb" stop-opacity="0"/></radialGradient>
+      <radialGradient id="glow2"><stop offset="0" stop-color="#8b5cf6" stop-opacity=".13"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+      <linearGradient id="base" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#101b34"/><stop offset=".6" stop-color="#07111f"/><stop offset="1" stop-color="#080d20"/></linearGradient>
+      <linearGradient id="pane" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#111d33"/><stop offset="1" stop-color="#080f1c"/></linearGradient>
+      <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#54d6eb"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+      <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0 H0 V44" fill="none" stroke="#a6b4d0" opacity=".065" stroke-width="1"/></pattern>
+      <filter id="shadow" x="-30%" y="-40%" width="160%" height="200%"><feGaussianBlur stdDeviation="22"/></filter>
+      <clipPath id="clip"><rect x="68" y="333" width="1464" height="494" rx="22"/></clipPath>
+    </defs>
+<rect x="0" y="0" width="1600" height="900" rx="0" fill="url(#base)" stroke="none" stroke-width="1" opacity="1"/>
+<rect x="0" y="0" width="1600" height="900" rx="0" fill="url(#grid)" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="1400" cy="120" r="510" fill="url(#glow)"/>
+<circle cx="110" cy="730" r="480" fill="url(#glow2)"/>
+<rect x="76" y="77" width="76" height="76" rx="18" fill="#172844" stroke="#54d6eb" stroke-width="2" opacity="1"/>
+<text x="114" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="31" font-weight="800" fill="#f8fafc" opacity="1" letter-spacing="0">FG</text>
+<text x="173" y="113" text-anchor="start" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#54d6eb" opacity="1" letter-spacing="2">TYPESCRIPT  /  OOP  /  CLI APPLICATION</text>
+<text x="76" y="251" text-anchor="start" font-family="Arial, sans-serif" font-size="98" font-weight="800" fill="#f8fafc" opacity="1" letter-spacing="-2">FleetGuard</text>
+<text x="80" y="307" text-anchor="start" font-family="Arial, sans-serif" font-size="31" font-weight="500" fill="#99a9c1" opacity="1" letter-spacing="0">Araç Filo Yönetimi  •  Risk ve Bakım Analizi</text>
+<rect x="68" y="333" width="1464" height="494" rx="22" fill="url(#pane)" stroke="#31405b" stroke-width="2" opacity="1"/>
+<rect x="68" y="333" width="1464" height="66" rx="22" fill="#18283f" stroke="none" stroke-width="1" opacity="1"/>
+<rect x="68" y="383" width="1464" height="17" rx="0" fill="#18283f" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="105" cy="366" r="10" fill="#f87171" opacity=".82"/>
+<circle cx="140" cy="366" r="10" fill="#fbbf24" opacity=".82"/>
+<circle cx="175" cy="366" r="10" fill="#34d399" opacity=".82"/>
+<text x="247" y="375" text-anchor="start" font-family="DejaVu Sans Mono, monospace" font-size="23" font-weight="500" fill="#a9b9d1" opacity="1" letter-spacing="0">fleetguard  /  node dist/index.js</text>
+<text x="1484" y="375" text-anchor="end" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#8ba2c5" opacity="1" letter-spacing="1">CLI OUTPUT  ·  CONCEPT PREVIEW</text>
+<path d="M 1010 423 V 790" stroke="#31415d" stroke-width="2" stroke-dasharray="4 10"/>
+<text x="116" y="462" text-anchor="start" font-family="DejaVu Sans Mono, monospace" font-size="31" font-weight="700" fill="#54d6eb" opacity="1" letter-spacing="0">FLEET REPORT</text>
+<text x="116" y="515" text-anchor="start" font-family="DejaVu Sans Mono, monospace" font-size="27" font-weight="500" fill="#b5c3d9" opacity="1" letter-spacing="0">Total Vehicles</text>
+<text x="928" y="515" text-anchor="end" font-family="DejaVu Sans Mono, monospace" font-size="27" font-weight="700" fill="#f2f5ff" opacity="1" letter-spacing="0">15</text>
+<text x="116" y="563" text-anchor="start" font-family="DejaVu Sans Mono, monospace" font-size="27" font-weight="500" fill="#b5c3d9" opacity="1" letter-spacing="0">Active</text>
+<text x="928" y="563" text-anchor="end" font-family="DejaVu Sans Mono, monospace" font-size="27" font-weight="700" fill="#f2f5ff" opacity="1" letter-spacing="0">13</text>
+<text x="116" y="611" text-anchor="start" font-family="DejaVu Sans Mono, monospace" font-size="27" font-weight="500" fill="#b5c3d9" opacity="1" letter-spacing="0">Maintenance Required</text>
+<text x="928" y="611" text-anchor="end" font-family="DejaVu Sans Mono, monospace" font-size="27" font-weight="700" fill="#f2f5ff" opacity="1" letter-spacing="0">4</text>
+<text x="116" y="659" text-anchor="start" font-family="DejaVu Sans Mono, monospace" font-size="27" font-weight="500" fill="#b5c3d9" opacity="1" letter-spacing="0">Total Faults</text>
+<text x="928" y="659" text-anchor="end" font-family="DejaVu Sans Mono, monospace" font-size="27" font-weight="500" fill="#c4cde1" opacity="1" letter-spacing="0">30</text>
+<text x="116" y="707" text-anchor="start" font-family="DejaVu Sans Mono, monospace" font-size="27" font-weight="500" fill="#b5c3d9" opacity="1" letter-spacing="0">Critical Faults</text>
+<text x="928" y="707" text-anchor="end" font-family="DejaVu Sans Mono, monospace" font-size="27" font-weight="700" fill="#f2f5ff" opacity="1" letter-spacing="0">3</text>
+<text x="116" y="755" text-anchor="start" font-family="DejaVu Sans Mono, monospace" font-size="27" font-weight="500" fill="#b5c3d9" opacity="1" letter-spacing="0">Maintenance Cost</text>
+<text x="928" y="755" text-anchor="end" font-family="DejaVu Sans Mono, monospace" font-size="27" font-weight="500" fill="#c4cde1" opacity="1" letter-spacing="0">152.200 TL</text>
+<rect x="1045" y="423" width="442" height="350" rx="20" fill="#0c1729" stroke="#2a3a57" stroke-width="2" opacity="1"/>
+<rect x="1068" y="446" width="398" height="5" rx="3" fill="url(#shine)" stroke="none" stroke-width="1" opacity="1"/>
+<text x="1080" y="496" text-anchor="start" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#9aadc9" opacity="1" letter-spacing="2">VEHICLE HEALTH</text>
+<text x="1078" y="605" text-anchor="start" font-family="Arial, sans-serif" font-size="101" font-weight="800" fill="#54d6eb" opacity="1" letter-spacing="-2">100/100</text>
+<text x="1080" y="649" text-anchor="start" font-family="Arial, sans-serif" font-size="25" font-weight="600" fill="#d2dcef" opacity="1" letter-spacing="0">Ford Transit  •  Risk: HEALTHY</text>
+<rect x="1078" y="686" width="360" height="54" rx="12" fill="#1c2943" stroke="#54d6eb" stroke-width="1" opacity="1"/>
+<text x="1258" y="721" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" font-weight="700" fill="#54d6eb" opacity="1" letter-spacing="0">MISSION READY: YES</text>
+<text x="78" y="868" text-anchor="start" font-family="Arial, sans-serif" font-size="22" font-weight="600" fill="#7485a3" opacity="1" letter-spacing="2">PORTFOLIO  •  CONSOLE PROJECT</text>
+<text x="1520" y="868" text-anchor="end" font-family="Arial, sans-serif" font-size="22" font-weight="600" fill="#7485a3" opacity="1" letter-spacing="2">TYPESCRIPT  /  NODE.JS</text>
+</svg>

@@ -1,5 +1,6 @@
 import reactIcon from "../assets/icons/react.svg";
 import javascriptIcon from "../assets/icons/javascript.svg";
+import typescriptIcon from "../assets/icons/typescript.svg";
 import html5Icon from "../assets/icons/html5.svg";
 import css3Icon from "../assets/icons/css3.svg";
 import bootstrapIcon from "../assets/icons/bootstrap.svg";
@@ -14,6 +15,10 @@ export const skills = [
   {
     name: "React",
     image: reactIcon,
+  },
+  {
+    name: "TypeScript",
+    image: typescriptIcon,
   },
   {
     name: "JavaScript",

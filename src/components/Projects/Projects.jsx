@@ -12,6 +12,15 @@ const projectGroups = [
     gridClass: "projects__grid--react",
   },
   {
+    key: "typescript",
+    eyebrow: "KOD ODAKLI UYGULAMALAR",
+    title: "TypeScript & OOP Projeleri",
+    description:
+      "TypeScript ve nesne yönelimli programlama ile geliştirdiğim; iş kuralları, veri doğrulama, modüler mimari ve raporlamaya odaklanan konsol uygulamaları.",
+    order: [8, 9],
+    gridClass: "projects__grid--typescript",
+  },
+  {
     key: "html",
     title: "HTML / CSS / JavaScript Projeleri",
     description:
